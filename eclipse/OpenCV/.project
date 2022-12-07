@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>OpenCV</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>OpenCVJava</name>
+			<type>2</type>
+			<locationURI>OpenCVJava</locationURI>
+		</link>
+		<link>
+			<name>OpenCVNative</name>
+			<type>2</type>
+			<locationURI>OpenCVNative</locationURI>
+		</link>
+	</linkedResources>
+	<variableList>
+		<variable>
+			<name>OpenCVJava</name>
+			<value>$%7BPARENT-2-PROJECT_LOC%7D/java</value>
+		</variable>
+		<variable>
+			<name>OpenCVNative</name>
+			<value>$%7BPARENT-2-PROJECT_LOC%7D/native</value>
+		</variable>
+	</variableList>
+</projectDescription>

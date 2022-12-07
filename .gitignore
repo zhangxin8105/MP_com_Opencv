@@ -13,3 +13,6 @@ captures
 .externalNativeBuild
 .cxx
 local.properties
+
+.settings/
+target/
